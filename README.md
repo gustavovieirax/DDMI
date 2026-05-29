@@ -8,4 +8,4 @@ neste repositório você econtrará:
 .
 
      -> ATV 02 - Joguinho
-https://ai2a.appinventor.mit.edu/b/ecy3 - Link APK via Android.
+-> Atividade anexada via .aia no repositório /mitappinventor
