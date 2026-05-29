@@ -1,5 +1,5 @@
-### AULA 02 - JOGUINHO INTERATIVO
-                       
+#APLICATIVOS ORGANIZADOS EM .AIA 
+
                        -> MIT APP inventor
                        Este é um dos primeiros apps desenvolvidos, utilizando esta plataforma
 -> JOGUINHO APP 2
