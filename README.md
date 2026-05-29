@@ -1,4 +1,4 @@
-#  DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/3e398625-15e4-4fe3-92b2-5a33ad2cf8c6" />
+#  DESENVOLVIMENTO PARA DISPOSITIVOS MÓVEIS <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/3e398625-15e4-4fe3-92b2-5a33ad2cf8c6" />
 
 
 Repositório destinado ao aprendizado de dev. para aplicativos móveis I, ministrado no ano de 2026 pela Profa. Suely
